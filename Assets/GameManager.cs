@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     public GestionnaireUI gestionnaireUI;
 
     [Header("Paramètres du Jeu")]
-    public float tempsInitial = 45f;
+    public float tempsInitial = 25f;
 
     private float tempsRestant;
     private int score = 0;
